@@ -1,6 +1,0 @@
-{
-    "dataworkspace.excludedProjects": [
-        "Tete/Tete.sqlproj"
-    ],
-    "sqltools.connections": []
-}
