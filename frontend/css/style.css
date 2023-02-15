@@ -7,7 +7,14 @@
     font-family: 'Raleway', sans-serif;
 }
 
-
+h1{
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    margin: 5vw auto -5vw auto;
+    justify-content: center;
+    align-items: center;
+    color: #ebebeb;
+}
 body{
     background-color: rgb(0, 153, 255);
 }
