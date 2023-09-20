@@ -1,2 +1,2 @@
 # TODOLIST
-Um projeto basico, feito em node e express.
+Um projeto, feito em node.js e express.js, ligado ao mySql.
